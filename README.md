@@ -1,16 +1,18 @@
-## Hi there 👋
+# Joshua Lorson
 
-<!--
-**Evil0ctopus/Evil0ctopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cybersecurity analyst · CompTIA A+ · WGU Cybersecurity and Information Assurance
 
-Here are some ideas to get you started:
+Hands-on builder focused on network defense habits, embedded systems, and **authorized** wireless observation on hardware I own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- **[wigglefish](https://github.com/Evil0ctopus/wigglefish)** — Passive Wi-Fi/BLE field scanner (ESP32-C5 + Android). Metadata-only; authorized networks only.
+- **[cores3_weather_console](https://github.com/Evil0ctopus/cores3_weather_console)** — M5Stack CoreS3 weather console (PlatformIO/C++).
+- **[poseidon_adv](https://github.com/Evil0ctopus/poseidon_adv)** — Cardputer-Adv RF/embedded security lab firmware for education on owned hardware only.
+- **[Pocket-Pirate-CYD](https://github.com/Evil0ctopus/Pocket-Pirate-CYD)** — ESP32-S3 touch firmware and modular UI practice.
+
+## Focus
+Network defense · hands-on labs · documentation discipline · ethical, authorized use only
+
+## Note on wireless / RF projects
+Lab and field tools in this profile are for learning, demos on **my own equipment**, and authorized environments. No unauthorized access, disruption, or interception.
+
