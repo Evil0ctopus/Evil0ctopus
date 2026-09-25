@@ -13,6 +13,11 @@ Hands-on builder focused on network defense habits, embedded systems, and **auth
 ## Focus
 Network defense · hands-on labs · documentation discipline · ethical, authorized use only
 
+## Contact
+Open to cybersecurity analyst / SOC / junior network-defense roles.
+
+Email: zeroaccess.joshua@gmail.com · GitHub: [Evil0ctopus](https://github.com/Evil0ctopus)
+
 ## Note on wireless / RF projects
 Lab and field tools in this profile are for learning, demos on **my own equipment**, and authorized environments. No unauthorized access, disruption, or interception.
 
