@@ -1,4 +1,4 @@
-# Joshua Lorson
+# Evil0ctopus
 
 Aspiring cybersecurity analyst · CompTIA A+ · WGU Cybersecurity and Information Assurance
 
@@ -16,7 +16,7 @@ Network defense · hands-on labs · documentation discipline · ethical, authori
 ## Contact
 Open to cybersecurity analyst / SOC / junior network-defense roles.
 
-Email: zeroaccess.joshua@gmail.com · GitHub: [Evil0ctopus](https://github.com/Evil0ctopus)
+Reach me on GitHub: [Evil0ctopus](https://github.com/Evil0ctopus)
 
 ## Note on wireless / RF projects
 Lab and field tools in this profile are for learning, demos on **my own equipment**, and authorized environments. No unauthorized access, disruption, or interception.
