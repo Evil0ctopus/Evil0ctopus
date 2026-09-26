@@ -9,6 +9,8 @@ Hands-on builder focused on network defense habits, embedded systems, and **auth
 - **[cores3_weather_console](https://github.com/Evil0ctopus/cores3_weather_console)** — M5Stack CoreS3 weather console (PlatformIO/C++).
 - **[poseidon_adv](https://github.com/Evil0ctopus/poseidon_adv)** — Cardputer-Adv RF/embedded security lab firmware for education on owned hardware only.
 - **[Pocket-Pirate-CYD](https://github.com/Evil0ctopus/Pocket-Pirate-CYD)** — ESP32-S3 touch firmware and modular UI practice.
+- **[octobuddy](https://github.com/Evil0ctopus/octobuddy)** — Free Android pet companion (Evil0ctopus brand octopus); local-only care loop, no ads.
+- **[evil0ctopus.github.io](https://evil0ctopus.github.io/)** — Multi-page personal brand / hiring site (projects, Flash hub, Birth Sky tools, contact).
 
 ## Focus
 Network defense · hands-on labs · documentation discipline · ethical, authorized use only
